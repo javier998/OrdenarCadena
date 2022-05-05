@@ -19,6 +19,7 @@ public class OrdenCaracter {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //ordena primero los carcteres y despues las vocales
         String cadena= "america";
         ArrayList vocal = new ArrayList<>();
         ArrayList consonate = new ArrayList<>();

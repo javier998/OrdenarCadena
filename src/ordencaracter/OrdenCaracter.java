@@ -20,6 +20,7 @@ public class OrdenCaracter {
      */
     public static void main(String[] args) {
         //ordena primero los carcteres y despues las vocales
+        //esta echo con arrayslist
         String cadena= "america";
         ArrayList vocal = new ArrayList<>();
         ArrayList consonate = new ArrayList<>();
